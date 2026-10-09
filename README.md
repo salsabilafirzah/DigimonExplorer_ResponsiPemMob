@@ -4,11 +4,9 @@ Aplikasi Android sederhana untuk menjelajahi data Digimon dari [Digi-API](https:
 
 ## Screenshot
 
-| Home | Detail | Loading | Error |
-|------|--------|---------|-------|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Loading](screenshots/loading.png) | ![Error](screenshots/error.png) |
-
-> Ganti file di folder `screenshots/` dengan screenshot aplikasimu sendiri.
+| Home Screen | Detail Screen |
+|:---:|:---:|
+| ![Home Screen](screenshots/home.jpeg) | ![Detail Screen](screenshots/detail.jpeg) |
 
 ## Fitur
 
